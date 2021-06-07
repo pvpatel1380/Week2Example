@@ -37,7 +37,7 @@ public class CardDemo {
            //deck[i]= new Card(sc.next(),sc.nextInt()); 
             System.out.println(deck[i].getSuit()+" " + deck[i].getValue());
         }
-        System.out.println("hello");
+        System.out.println("hello, how are you?");
              
                 
 // TODO code application logic here
